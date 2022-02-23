@@ -1884,6 +1884,11 @@
     (uuid fb9b0326-252b-41f6-b7b7-e9eb1b60986f)
   )
 
+  (text "A" (at 82.55 39.37 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8a9f89f0-d069-4684-a4fc-3490bfcf82d6)
+  )
+
   (label "GPIO12" (at 58.42 59.69 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 02fcc977-e5e1-4a22-95a3-4e7541dde164)
