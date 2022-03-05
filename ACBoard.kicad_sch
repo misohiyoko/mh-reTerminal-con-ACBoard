@@ -2584,6 +2584,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2eb3b9f1-caf5-43eb-a5c2-73dce5ec9397)
   )
+  (text "https://github.com/raspberrypi/linux/blob/rpi-5.15.y/sound/soc/bcm/hifiberry_dacplus.c"
+    (at 12.7 152.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3def2bbb-8d34-4600-99dd-26ef6fcd30b3)
+  )
   (text "https://nabe.adiary.jp/0566" (at 12.7 160.02 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 675cfb9f-68c2-4408-a3f2-73bb0fd7edc2)
