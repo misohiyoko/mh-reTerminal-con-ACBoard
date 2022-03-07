@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid fb76b232-3b44-4355-ab71-b7874e971c04)
+  (uuid 8e4e77ef-4fdf-4a86-93bf-8c802ed67d85)
 
   (paper "A4")
 
@@ -920,7 +920,7 @@
     (uuid a7d288a3-61b2-4f75-81ec-f998d2a623ad)
   )
 
-  (symbol (lib_id "power:+3V3") (at 85.09 90.17 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 85.09 90.17 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid 024304b1-e36f-4256-8aca-41914becb925)
     (property "Reference" "#PWR?" (id 0) (at 85.09 93.98 0)
@@ -936,7 +936,7 @@
     (pin "1" (uuid fbcdccef-405e-467b-91f7-353428d8c709))
   )
 
-  (symbol (lib_id "Motor:Motor_DC") (at 130.81 53.34 90) (unit 1)
+  (symbol (lib_id "Motor:Motor_DC") (at 130.81 53.34 90)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06ce75d8-8a05-454f-9b45-52658c51b343)
     (property "Reference" "M?" (id 0) (at 133.35 46.389 90))
@@ -951,7 +951,7 @@
     (pin "2" (uuid 711ad2fc-38b7-4223-a33e-8cb7be0b51d6))
   )
 
-  (symbol (lib_id "power:GND") (at 129.54 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 129.54 64.77 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18ed979f-74d0-4334-be34-868d37d1eb8c)
     (property "Reference" "#PWR?" (id 0) (at 129.54 71.12 0)
@@ -967,7 +967,7 @@
     (pin "1" (uuid 235d3fca-4cad-45ad-b718-6a3140e28351))
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 90.17 53.34 180) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 90.17 53.34 180)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1a048255-422e-40ea-99b8-54bb9350c0e6)
     (property "Reference" "C?" (id 0) (at 93.091 53.3943 0)
@@ -986,7 +986,7 @@
     (pin "2" (uuid 75a1144d-592f-4fde-9085-86bc3cabd303))
   )
 
-  (symbol (lib_id "power:GND") (at 33.02 62.23 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 33.02 62.23 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 23d49b06-6bc4-4a1a-8478-e5d262442584)
     (property "Reference" "#PWR?" (id 0) (at 33.02 68.58 0)
@@ -1002,7 +1002,7 @@
     (pin "1" (uuid 3f0c9757-8af7-48da-b1d4-b698d385f375))
   )
 
-  (symbol (lib_id "Device:Q_NMOS_DGS") (at 149.86 59.69 0) (mirror y) (unit 1)
+  (symbol (lib_id "Device:Q_NMOS_DGS") (at 149.86 59.69 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid 293faea7-f5b8-40bb-a077-b5a80e127f2d)
     (property "Reference" "Q?" (id 0) (at 153.67 63.5 0)
@@ -1022,7 +1022,7 @@
     (pin "3" (uuid 07a9436f-8f4f-4f4b-9ff3-0f199a0815fd))
   )
 
-  (symbol (lib_id "power:+BATT") (at 33.02 54.61 0) (unit 1)
+  (symbol (lib_id "power:+BATT") (at 33.02 54.61 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b9d3833-f183-466a-b737-1bbad09f32b7)
     (property "Reference" "#PWR?" (id 0) (at 33.02 58.42 0)
@@ -1038,7 +1038,7 @@
     (pin "1" (uuid 34db44af-f478-4ccc-9ca1-3345da91a1dd))
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 88.9 93.98 0) (mirror y) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 88.9 93.98 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2d65e117-0182-4455-b423-f638d4ee4cbe)
     (property "Reference" "C?" (id 0) (at 85.979 92.2563 0)
@@ -1057,7 +1057,7 @@
     (pin "2" (uuid 0ab4c633-92b1-4554-9b0f-6bb075833381))
   )
 
-  (symbol (lib_id "Device:R") (at 158.75 46.99 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R") (at 158.75 46.99 270) (mirror x)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 35c8f0a7-d076-4068-9060-cbdac55d6078)
     (property "Reference" "R?" (id 0) (at 158.75 42.2742 90))
@@ -1072,7 +1072,7 @@
     (pin "2" (uuid d81213e0-e66e-4798-a687-1d2ce3cf161b))
   )
 
-  (symbol (lib_id "power:+3V3") (at 85.09 60.96 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 85.09 60.96 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid 4a1decd0-f4ff-4eec-b8f8-828ce13b87a7)
     (property "Reference" "#PWR?" (id 0) (at 85.09 64.77 0)
@@ -1088,7 +1088,7 @@
     (pin "1" (uuid 2ef778a7-fc61-4f3a-9089-a15f7246a58a))
   )
 
-  (symbol (lib_id "power:GND") (at 88.9 68.58 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 88.9 68.58 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4d02349d-210f-490b-a078-ffded75bf981)
     (property "Reference" "#PWR?" (id 0) (at 88.9 74.93 0)
@@ -1104,7 +1104,7 @@
     (pin "1" (uuid 50a283ea-4a24-41e4-823d-d4c71d17ade9))
   )
 
-  (symbol (lib_id "locallib:DGD0506A") (at 69.85 55.88 180) (unit 1)
+  (symbol (lib_id "locallib:DGD0506A") (at 69.85 55.88 180)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5a28a73d-f43c-4115-92ab-6a3e9ca85c7f)
     (property "Reference" "U?" (id 0) (at 69.215 45.881 0))
@@ -1127,7 +1127,7 @@
     (pin "9" (uuid c8cf1aed-092c-4869-a2a0-7c9a1cdf447d))
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 88.9 64.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 88.9 64.77 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6837c1ec-2f86-4e51-aed7-44d25ecbb937)
     (property "Reference" "C?" (id 0) (at 85.979 63.0463 0)
@@ -1146,7 +1146,7 @@
     (pin "2" (uuid 97526501-3c7d-4c79-a180-61b7cacae20b))
   )
 
-  (symbol (lib_id "Device:R") (at 158.75 59.69 270) (mirror x) (unit 1)
+  (symbol (lib_id "Device:R") (at 158.75 59.69 270) (mirror x)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6b20b9f2-b5d5-4bd0-b23c-413dfc736116)
     (property "Reference" "R?" (id 0) (at 158.75 54.9742 90))
@@ -1161,7 +1161,7 @@
     (pin "2" (uuid 2d0cb7a1-8969-401f-b7aa-db2ea7a52214))
   )
 
-  (symbol (lib_id "locallib:DGD0506A") (at 69.85 85.09 180) (unit 1)
+  (symbol (lib_id "locallib:DGD0506A") (at 69.85 85.09 180)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6fd86322-9fa1-4e1a-9f47-2ad9438b8d5d)
     (property "Reference" "U?" (id 0) (at 69.215 75.091 0))
@@ -1184,7 +1184,7 @@
     (pin "9" (uuid 7ee60e27-7d39-4b3f-99e3-9658c9266d60))
   )
 
-  (symbol (lib_id "Device:D") (at 139.7 59.69 270) (unit 1)
+  (symbol (lib_id "Device:D") (at 139.7 59.69 270)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 860dda3f-dc02-488a-b789-6aa277094912)
     (property "Reference" "D?" (id 0) (at 141.732 58.8553 90)
@@ -1203,7 +1203,7 @@
     (pin "2" (uuid 406892ed-9c55-4642-9de2-3406b9b4df50))
   )
 
-  (symbol (lib_id "Device:Q_NMOS_DGS") (at 149.86 46.99 0) (mirror y) (unit 1)
+  (symbol (lib_id "Device:Q_NMOS_DGS") (at 149.86 46.99 0) (mirror y)
     (in_bom yes) (on_board yes)
     (uuid 883c0125-2a80-4249-ba28-1bc7eddd73ae)
     (property "Reference" "Q?" (id 0) (at 153.67 50.8 0)
@@ -1223,7 +1223,7 @@
     (pin "3" (uuid 07710094-e37d-4354-a3c9-99fdd9e04365))
   )
 
-  (symbol (lib_id "Device:D") (at 124.46 46.99 270) (unit 1)
+  (symbol (lib_id "Device:D") (at 124.46 46.99 270)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 95f20c8b-a82f-428a-a9df-851ae9e1fa7d)
     (property "Reference" "D?" (id 0) (at 126.492 46.1553 90)
@@ -1242,7 +1242,7 @@
     (pin "2" (uuid d0a03c93-d60c-4d0c-b4f4-d4f2ad0a6dbb))
   )
 
-  (symbol (lib_id "Device:D") (at 124.46 59.69 270) (unit 1)
+  (symbol (lib_id "Device:D") (at 124.46 59.69 270)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 95f32005-a759-4261-8123-917093416d51)
     (property "Reference" "D?" (id 0) (at 126.492 58.8553 90)
@@ -1261,7 +1261,7 @@
     (pin "2" (uuid 665b2867-281e-40a5-b034-11aa350c0a5b))
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 90.17 82.55 180) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 90.17 82.55 180)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 98d1c55c-7499-4f8e-8f4f-5f6595a7cbe9)
     (property "Reference" "C?" (id 0) (at 93.091 82.6043 0)
@@ -1280,7 +1280,7 @@
     (pin "2" (uuid 30999d60-9e2f-492a-9ee6-b3081afff1b9))
   )
 
-  (symbol (lib_id "Device:R") (at 55.88 83.82 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 55.88 83.82 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9c3703bd-a0a5-448e-bfa8-7c88828c835a)
     (property "Reference" "R?" (id 0) (at 57.658 82.9853 0)
@@ -1299,7 +1299,7 @@
     (pin "2" (uuid 22379d11-b357-47a2-83bf-a486f879ae04))
   )
 
-  (symbol (lib_id "Device:R") (at 55.88 54.61 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 55.88 54.61 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9ffac7e6-49b8-49cc-9f6f-21f775bf9c51)
     (property "Reference" "R?" (id 0) (at 57.658 53.7753 0)
@@ -1318,7 +1318,7 @@
     (pin "2" (uuid dde9a8c4-9821-49fb-85af-ccd3714ea488))
   )
 
-  (symbol (lib_id "power:GND") (at 55.88 64.77 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 55.88 64.77 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a2051d0c-0c4f-4ce0-905b-041d2619d447)
     (property "Reference" "#PWR?" (id 0) (at 55.88 71.12 0)
@@ -1334,7 +1334,7 @@
     (pin "1" (uuid f85561b7-8499-4428-8866-26f6ebf8a72f))
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 33.02 58.42 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 33.02 58.42 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a9527338-efc6-4dc9-afb4-337dfeefef36)
     (property "Reference" "C?" (id 0) (at 35.941 56.6963 0)
@@ -1353,7 +1353,7 @@
     (pin "2" (uuid 7c59d3e1-c704-4bb2-93de-f96d60c49e9b))
   )
 
-  (symbol (lib_id "power:GND") (at 55.88 93.98 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 55.88 93.98 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aadce55d-eb93-43a0-9b86-0400cc456e0c)
     (property "Reference" "#PWR?" (id 0) (at 55.88 100.33 0)
@@ -1369,7 +1369,7 @@
     (pin "1" (uuid 71e45459-731a-412b-9344-efafcbcdc70a))
   )
 
-  (symbol (lib_id "Device:Q_NMOS_DGS") (at 114.3 59.69 0) (unit 1)
+  (symbol (lib_id "Device:Q_NMOS_DGS") (at 114.3 59.69 0)
     (in_bom yes) (on_board yes)
     (uuid b498897a-cd29-4a34-a1e9-025db070d4d0)
     (property "Reference" "Q?" (id 0) (at 101.6 63.5 0)
@@ -1389,7 +1389,7 @@
     (pin "3" (uuid 1ca98980-522d-4923-8e60-ad4f75dc0cb4))
   )
 
-  (symbol (lib_id "Device:R") (at 105.41 59.69 90) (unit 1)
+  (symbol (lib_id "Device:R") (at 105.41 59.69 90)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid babaa4d7-f300-4c38-9a0c-2f6622e3fa68)
     (property "Reference" "R?" (id 0) (at 105.41 54.9742 90))
@@ -1404,7 +1404,7 @@
     (pin "2" (uuid dcf2bef4-00dc-4de3-b426-498e6c66ac52))
   )
 
-  (symbol (lib_id "power:GND") (at 88.9 97.79 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 88.9 97.79 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c9a68633-d8ca-43b5-98d9-d3ac7e0e41e1)
     (property "Reference" "#PWR?" (id 0) (at 88.9 104.14 0)
@@ -1420,7 +1420,7 @@
     (pin "1" (uuid b2350c76-b613-412d-afb7-8db596e8b0b6))
   )
 
-  (symbol (lib_id "Device:R") (at 105.41 46.99 90) (unit 1)
+  (symbol (lib_id "Device:R") (at 105.41 46.99 90)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cfe2fbf2-3cf5-452b-8330-e6286b721633)
     (property "Reference" "R?" (id 0) (at 105.41 42.2742 90))
@@ -1435,7 +1435,7 @@
     (pin "2" (uuid 1fa46b5b-ae89-41ef-ab78-e28ba05cd529))
   )
 
-  (symbol (lib_id "Device:D") (at 139.7 46.99 270) (unit 1)
+  (symbol (lib_id "Device:D") (at 139.7 46.99 270)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d8b5773e-d0fc-4ee1-9a13-c463a1561a19)
     (property "Reference" "D?" (id 0) (at 141.732 46.1553 90)
@@ -1454,7 +1454,7 @@
     (pin "2" (uuid 40516f9f-90a4-44ac-83d3-3e22680dcd22))
   )
 
-  (symbol (lib_id "power:+BATT") (at 130.81 41.91 0) (unit 1)
+  (symbol (lib_id "power:+BATT") (at 130.81 41.91 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de3652ff-a48c-4e71-9021-5936e8f0383c)
     (property "Reference" "#PWR?" (id 0) (at 130.81 45.72 0)
@@ -1470,7 +1470,7 @@
     (pin "1" (uuid c67c69a9-8848-4541-8ca3-3bbaed033a28))
   )
 
-  (symbol (lib_id "Device:Q_NMOS_DGS") (at 114.3 46.99 0) (unit 1)
+  (symbol (lib_id "Device:Q_NMOS_DGS") (at 114.3 46.99 0)
     (in_bom yes) (on_board yes)
     (uuid fa3665bf-0b80-49eb-be09-afd7d4d1e141)
     (property "Reference" "Q?" (id 0) (at 119.507 46.1553 0)

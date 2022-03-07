@@ -440,6 +440,26 @@
     [
       "906fdf45-9f05-49f0-9fe1-c673e7eacd1e",
       "MotorDriverNode"
+    ],
+    [
+      "79055907-d945-427d-bece-30293987359f",
+      "MotorDriverNode1"
+    ],
+    [
+      "c8fb9d04-2612-4728-9550-68e01d5dfd83",
+      "MotorDriverNode2"
+    ],
+    [
+      "8cc50fed-cdbc-46e5-b5ad-d1d1060576fd",
+      "MotorDriverNode3"
+    ],
+    [
+      "9ecbd148-88e7-414f-a9d6-20e3d07cf9ee",
+      "MotorDriverNode4"
+    ],
+    [
+      "0d1f56b7-320e-47af-bf3a-e5420fa151a4",
+      "MotorDriverNode5"
     ]
   ],
   "text_variables": {}
