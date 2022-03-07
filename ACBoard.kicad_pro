@@ -447,19 +447,15 @@
     ],
     [
       "c8fb9d04-2612-4728-9550-68e01d5dfd83",
-      "MotorDriverNode2"
+      "MotorDriverNodeHalfDouble"
     ],
     [
-      "8cc50fed-cdbc-46e5-b5ad-d1d1060576fd",
-      "MotorDriverNode3"
+      "c72ad469-6db5-4627-b64c-f2b83f3fb895",
+      "MotorDriverNodeHalfDouble1"
     ],
     [
-      "9ecbd148-88e7-414f-a9d6-20e3d07cf9ee",
-      "MotorDriverNode4"
-    ],
-    [
-      "0d1f56b7-320e-47af-bf3a-e5420fa151a4",
-      "MotorDriverNode5"
+      "a6f0c0a3-1efa-4095-ab97-b8898b4d5206",
+      "MotorDriverNodeHalfDouble2"
     ]
   ],
   "text_variables": {}
